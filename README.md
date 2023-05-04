@@ -7,6 +7,7 @@ In this project, two prominent algorithms are implemented from scractch using Py
 
 
 ## Dataset
+
 **Dataset Name**: Peeves: Physical Event Verification in Smart Homes 
 
 **Citation**: Birnbach, S., & Eberz, S. (2019). Peeves: Physical Event Verification in Smart Homes. University of Oxford.
@@ -17,6 +18,7 @@ In this project, two prominent algorithms are implemented from scractch using Py
 
 
 ## Codebase Information
+
 **Language used**: Python
 
 **Libraries used for data analytics**: [NumPy](https://numpy.org/doc/stable/index.html), [pandas](https://pandas.pydata.org), [scikit-learn](https://scikit-learn.org/stable)
@@ -26,10 +28,25 @@ In this project, two prominent algorithms are implemented from scractch using Py
 
 ## Usage
 
+1. **Install dependencies**: Use the following commands to install required dependencies:
+
+```
+python -m pip install -U pip # to install pip
+pip install numpy
+pip install pandas
+python -m pip install -U matplotlib
+pip install -U scikit-learn
+pip install seaborn
+```
+
+2. **Run project**: Once all the necessary dependencies are installed on your machine, simple execute the `hmm-main.py` file. It will import all necessary modules to successfully run the application. 
 
 
-## Publication 
-**Conference Version**: https://ieeexplore.ieee.org/abstract/document/9771878 
+## Results
 
-**Pre-print Version**: https://github.com/kayanmorshed/IoTMonitor/blob/main/IoTMonitor_Alam_2022.pdf
+**Research Paper Publication**: 
+
+1. **Conference Version**: https://ieeexplore.ieee.org/abstract/document/9771878 
+
+2. **Pre-print Version**: https://github.com/kayanmorshed/IoTMonitor-Hidden-Markov-Model-Security-System/blob/main/IoTMonitor_Alam_2022.pdf
 
