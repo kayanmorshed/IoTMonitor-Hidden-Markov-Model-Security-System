@@ -42,9 +42,7 @@ pip install seaborn
 2. **Run project**: Once all the necessary dependencies are installed on your machine, simple execute the `hmm-main.py` file. It will import all necessary modules to successfully run the application. 
 
 
-## Results
-
-**Research Paper Publication**: 
+## Published Research Paper**: 
 
 1. **Conference Version**: https://ieeexplore.ieee.org/abstract/document/9771878 
 
