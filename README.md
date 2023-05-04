@@ -1,3 +1,5 @@
+# IoTMonitor: A Hidden Markov Model-based Security System for IoT Network
+
 This repository contains the Python implementation of a **Hidden Markov Model (HMM)** based security solution to determine underlying sequential patterns in a large dataset of sensory data collected from diverse IoT devices. The goal of this project is to discover probabilistic relations among smart devices in an IoT network, determine network dynamics, and extract optimal hidden sequence an agent may follow to reach a target node in the network. It is assumed that an attacker actively tries to compromise an IoT network, and the implemented solution exploits attacker's behavior to defend against the attack.  
 
 In this project, two prominent algorithms are implemented from scractch using Python:  
