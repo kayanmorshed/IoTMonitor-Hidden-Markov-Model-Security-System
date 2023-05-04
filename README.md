@@ -7,7 +7,6 @@ In this project, two prominent algorithms are implemented from scractch using Py
 
 2. [Viterbi Algorithm](https://en.wikipedia.org/wiki/Viterbi_algorithm): to extract the optimal hidden sequence. 
 
-
 ## Dataset
 
 **Dataset Name**: Peeves: Physical Event Verification in Smart Homes 
