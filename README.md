@@ -40,7 +40,7 @@ pip install -U scikit-learn
 pip install seaborn
 ```
 
-2. **Run project**: Once all the necessary dependencies are installed on your machine, simple execute the `hmm-main.py` file. It will import all necessary modules to successfully run the application. 
+2. **Run project**: Once all the necessary dependencies are installed on your machine, simply execute the `hmm-main.py` file. It will import all necessary modules to successfully run the application. 
 
 
 ## Published Research Paper: 
